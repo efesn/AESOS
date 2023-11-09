@@ -8,4 +8,5 @@ searching for solutions to their errors on the internet.
 AESOS will automatically detect errors from given code file (might be any programming language),
 open a browser and search for related pages on stackoverflow by using Stack Exchange API
 including syntax errors, runtime errors, and logical errors.
-![alt text](https://imgur.com/9959080c-5bad-47e3-baa3-19d01d6691d6)
+
+![alt text](https://imgur.com/3u5gZuP.png)
