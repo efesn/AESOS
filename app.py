@@ -49,6 +49,6 @@ def search_for_error_solutions(file_path):
 
 if __name__ == "__main__":
     try:
-        search_for_error_solutions(r"C:\Users\efesn\OneDrive\Masaüstü\X\AESOS\testfile.py")
+        search_for_error_solutions(r"C:\Users\efesn\OneDrive\Masaüstü\X\AESOS\testfile.py") #Your file path
     except Exception as e:
         print(f"Error: {str(e)}")
